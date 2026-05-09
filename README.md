@@ -7,7 +7,7 @@ Mssv : k225510201001
 Bài làm 
 
 1. Tổ chức CSDL cho hệ thống quản lý quán cầm cố tài sản
-<img width="2568" height="1926" alt="Image" src="https://github.com/user-attachments/assets/fd8911af-ac31-40b5-b39e-782403d598ac" />
+   <img width="2568" height="1926" alt="Image" src="https://github.com/user-attachments/assets/f3909f5e-b731-45f8-aee8-c57ace21d5e2" />
 
 
  2.  Triển khai cài đặt
